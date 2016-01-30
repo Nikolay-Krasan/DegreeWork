@@ -1,0 +1,1 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\GetHostName\obj\Debug\GetHostName.csprojResolveAssemblyReference.cache

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DisplayNewPropertiesVM</name>
+    </assembly>
+    <members>
+        <member name="M:DisplayNewPropertiesVM.DisplayNewPropertiesVMV25.constructOptions">
+             <summary>
+             This method is used to add application specific user options 
+             </summary>
+            <returns> Array of OptionSpec containing the details of application 
+             specific user options 
+            </returns>
+            
+        </member>
+        <member name="M:DisplayNewPropertiesVM.DisplayNewPropertiesVMV25.Main(System.String[])">
+            <summary>
+             The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:DisplayNewPropertiesVM.DisplayNewPropertiesVMV25.getProperties(Vim25Api.ManagedObjectReference,System.String[])">
+            <summary>
+            Retrieves the specified set of properties for the given managed object
+            reference into an array of result objects .
+            </summary>
+            <param name="moRef"></param>
+            <param name="properties"></param>
+            <returns>The function returns array of object.containg dynamic properties of host
+             (returned in the same oder as the property list)
+            </returns>
+            
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,15 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\EventHistoryCollectorMonitor.exe.config
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\EventHistoryCollectorMonitor.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\EventHistoryCollectorMonitor.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\AppUtil.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\Vim25Service.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\Vim25Service.XmlSerializers.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\VMware.Security.CredentialStore.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\STSService.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\AppUtil.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\VMware.Security.CredentialStore.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\obj\Debug\EventHistoryCollectorMonitor.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\obj\Debug\EventHistoryCollectorMonitor.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\EventHistoryCollectorMonitor\obj\Debug\EventHistoryCollectorMonitor.pdb

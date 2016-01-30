@@ -1,0 +1,15 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\AcquireSessionInfo.exe.config
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\AcquireSessionInfo.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\AcquireSessionInfo.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\AppUtil.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\Vim25Service.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\Vim25Service.XmlSerializers.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\VMware.Security.CredentialStore.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\STSService.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\AppUtil.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\VMware.Security.CredentialStore.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\obj\Debug\AcquireSessionInfo.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\obj\Debug\AcquireSessionInfo.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AcquireSessionInfo\obj\Debug\AcquireSessionInfo.pdb

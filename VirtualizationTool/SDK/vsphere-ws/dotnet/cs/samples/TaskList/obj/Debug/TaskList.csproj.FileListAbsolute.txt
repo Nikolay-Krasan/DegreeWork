@@ -1,0 +1,15 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\TaskList.exe.config
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\TaskList.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\TaskList.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\AppUtil.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\Vim25Service.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\Vim25Service.XmlSerializers.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\VMware.Security.CredentialStore.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\STSService.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\AppUtil.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\VMware.Security.CredentialStore.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\obj\Debug\TaskList.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\obj\Debug\TaskList.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\TaskList\obj\Debug\TaskList.pdb

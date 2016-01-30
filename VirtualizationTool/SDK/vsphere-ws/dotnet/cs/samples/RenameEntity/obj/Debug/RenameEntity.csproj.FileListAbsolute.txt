@@ -1,0 +1,15 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\RenameEntity.exe.config
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\RenameEntity.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\RenameEntity.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\AppUtil.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\Vim25Service.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\Vim25Service.XmlSerializers.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\VMware.Security.CredentialStore.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\STSService.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\AppUtil.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\VMware.Security.CredentialStore.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\obj\Debug\RenameEntity.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\obj\Debug\RenameEntity.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RenameEntity\obj\Debug\RenameEntity.pdb

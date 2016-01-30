@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VMotion</name>
+    </assembly>
+    <members>
+        <member name="T:VMotion.VMotion">
+            <summary>
+            This sample is used to validate if VMotion is feasible between two hosts or not,
+            It is also used to perform migrate/relocate task depending on the data given
+            </summary>
+            <param name="vmname">Required: Name of the virtual machine</param>
+            <param name="targethost">Required: Name of the target host</param>
+            <param name="sourcehost">Required: Name of the host containg the virtual machine </param>
+            <param name="targetpool">Required: Name of the target resource pool</param>
+            <param name="targetdatastore">Required: Name of the target datastore</param>
+            <param name="priority">Optional: The priority of the migration task: defaultPriority,
+             highPriority, lowPriority</param>
+            <param name="state">Optional </param>
+            <remarks>
+            Relocate or migrate a VM
+            --url [webserviceurl]
+            --username [username] --password [password]  --targetpool [tpool]
+            --sourcehost [shost] --targethost [thost] --vmname [myVM] --targetdatastore [tDS]
+            Validate the vmotion capability
+            --url [webserviceurl]
+            --username [username] --password [password]  --targetpool [tpool]
+            --sourcehost [shost] --targethost [thost] --vmname [myVM] --targetdatastore [tDS]
+            --validate
+            </remarks>
+        </member>
+    </members>
+</doc>

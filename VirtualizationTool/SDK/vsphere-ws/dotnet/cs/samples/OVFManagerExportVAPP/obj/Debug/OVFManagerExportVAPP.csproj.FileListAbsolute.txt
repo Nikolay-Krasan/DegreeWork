@@ -1,0 +1,15 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\obj\Debug\OVFManagerExportVAPP.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\OVFManagerExportVAPP.exe.config
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\OVFManagerExportVAPP.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\OVFManagerExportVAPP.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\AppUtil.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\Vim25Service.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\Vim25Service.XmlSerializers.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\VMware.Security.CredentialStore.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\STSService.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\AppUtil.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\VMware.Security.CredentialStore.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\obj\Debug\OVFManagerExportVAPP.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\OVFManagerExportVAPP\obj\Debug\OVFManagerExportVAPP.pdb

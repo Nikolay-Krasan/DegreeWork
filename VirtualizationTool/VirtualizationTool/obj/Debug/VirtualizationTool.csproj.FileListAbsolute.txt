@@ -1,1 +1,13 @@
 F:\degreework\VirtualizationTool\VirtualizationTool\bin\Debug\VirtualizationTool.exe.config
+F:\degreework\VirtualizationTool\VirtualizationTool\bin\Debug\VirtualizationTool.exe
+F:\degreework\VirtualizationTool\VirtualizationTool\bin\Debug\VirtualizationTool.pdb
+F:\degreework\VirtualizationTool\VirtualizationTool\obj\Debug\VirtualizationTool.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\VirtualizationTool\obj\Debug\MainWindow.baml
+F:\degreework\VirtualizationTool\VirtualizationTool\obj\Debug\MainWindow.g.cs
+F:\degreework\VirtualizationTool\VirtualizationTool\obj\Debug\App.g.cs
+F:\degreework\VirtualizationTool\VirtualizationTool\obj\Debug\VirtualizationTool_MarkupCompile.cache
+F:\degreework\VirtualizationTool\VirtualizationTool\obj\Debug\VirtualizationTool.g.resources
+F:\degreework\VirtualizationTool\VirtualizationTool\obj\Debug\VirtualizationTool.Properties.Resources.resources
+F:\degreework\VirtualizationTool\VirtualizationTool\obj\Debug\VirtualizationTool.csproj.GenerateResource.Cache
+F:\degreework\VirtualizationTool\VirtualizationTool\obj\Debug\VirtualizationTool.exe
+F:\degreework\VirtualizationTool\VirtualizationTool\obj\Debug\VirtualizationTool.pdb

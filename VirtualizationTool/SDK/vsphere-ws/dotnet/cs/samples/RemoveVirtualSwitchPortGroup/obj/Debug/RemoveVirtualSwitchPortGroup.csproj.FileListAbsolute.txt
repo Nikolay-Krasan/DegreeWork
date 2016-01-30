@@ -1,0 +1,15 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\RemoveVirtualSwitchPortGroup.exe.config
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\RemoveVirtualSwitchPortGroup.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\RemoveVirtualSwitchPortGroup.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\AppUtil.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\Vim25Service.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\Vim25Service.XmlSerializers.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\VMware.Security.CredentialStore.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\STSService.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\AppUtil.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\VMware.Security.CredentialStore.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\obj\Debug\RemoveVirtualSwitchPortGroup.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\obj\Debug\RemoveVirtualSwitchPortGroup.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualSwitchPortGroup\obj\Debug\RemoveVirtualSwitchPortGroup.pdb

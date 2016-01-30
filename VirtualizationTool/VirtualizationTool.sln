@@ -5,6 +5,23 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualizationTool", "VirtualizationTool\VirtualizationTool.csproj", "{7711C9A0-7EB0-4FF3-ADDB-FB24CDEBD71D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualizationEngine", "VirtualizationEngine\VirtualizationEngine.csproj", "{5A01E685-67B3-4A08-8957-751C7905B75F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{9021A6F4-BDCA-4EEF-89D5-EC8A34C1689E}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{5A55F24A-1F01-45B1-A478-0CA9ED4E4A06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppUtil", "SDKs\dotnet\cs\samples\AppUtil\AppUtil.csproj", "{819ADE36-46B4-4DCB-98EE-8E0368EDBB40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcquireBearerTokenByUserCredentialSample", "SDKs\dotnet\cs\samples\AcquireBearerTokenByUserCredentialSample\AcquireBearerTokenByUserCredentialSample.csproj", "{B525CA49-2783-4DA7-B101-9EFCD260F11C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMware.Security.CredentialStore", "SDKs\dotnet\cs\samples\VMware.Security.CredentialStore\VMware.Security.CredentialStore.csproj", "{C8393222-44A8-48A8-A7C1-94B7C44A19E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +32,29 @@ Global
 		{7711C9A0-7EB0-4FF3-ADDB-FB24CDEBD71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7711C9A0-7EB0-4FF3-ADDB-FB24CDEBD71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7711C9A0-7EB0-4FF3-ADDB-FB24CDEBD71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A01E685-67B3-4A08-8957-751C7905B75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A01E685-67B3-4A08-8957-751C7905B75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A01E685-67B3-4A08-8957-751C7905B75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A01E685-67B3-4A08-8957-751C7905B75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819ADE36-46B4-4DCB-98EE-8E0368EDBB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819ADE36-46B4-4DCB-98EE-8E0368EDBB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819ADE36-46B4-4DCB-98EE-8E0368EDBB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819ADE36-46B4-4DCB-98EE-8E0368EDBB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B525CA49-2783-4DA7-B101-9EFCD260F11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B525CA49-2783-4DA7-B101-9EFCD260F11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B525CA49-2783-4DA7-B101-9EFCD260F11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B525CA49-2783-4DA7-B101-9EFCD260F11C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8393222-44A8-48A8-A7C1-94B7C44A19E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8393222-44A8-48A8-A7C1-94B7C44A19E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8393222-44A8-48A8-A7C1-94B7C44A19E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8393222-44A8-48A8-A7C1-94B7C44A19E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{819ADE36-46B4-4DCB-98EE-8E0368EDBB40} = {5A55F24A-1F01-45B1-A478-0CA9ED4E4A06}
+		{B525CA49-2783-4DA7-B101-9EFCD260F11C} = {5A55F24A-1F01-45B1-A478-0CA9ED4E4A06}
+		{C8393222-44A8-48A8-A7C1-94B7C44A19E6} = {5A55F24A-1F01-45B1-A478-0CA9ED4E4A06}
 	EndGlobalSection
 EndGlobal

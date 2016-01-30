@@ -1,0 +1,15 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\RemoveVirtualNic.exe.config
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\RemoveVirtualNic.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\RemoveVirtualNic.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\AppUtil.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\Vim25Service.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\Vim25Service.XmlSerializers.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\VMware.Security.CredentialStore.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\STSService.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\AppUtil.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\VMware.Security.CredentialStore.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\obj\Debug\RemoveVirtualNic.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\obj\Debug\RemoveVirtualNic.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RemoveVirtualNic\obj\Debug\RemoveVirtualNic.pdb

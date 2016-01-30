@@ -1,0 +1,5 @@
+F:\degreework\VirtualizationTool\VirtualizationEngine\bin\Debug\VirtualizationEngine.dll
+F:\degreework\VirtualizationTool\VirtualizationEngine\bin\Debug\VirtualizationEngine.pdb
+F:\degreework\VirtualizationTool\VirtualizationEngine\obj\Debug\VirtualizationEngine.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\VirtualizationEngine\obj\Debug\VirtualizationEngine.dll
+F:\degreework\VirtualizationTool\VirtualizationEngine\obj\Debug\VirtualizationEngine.pdb

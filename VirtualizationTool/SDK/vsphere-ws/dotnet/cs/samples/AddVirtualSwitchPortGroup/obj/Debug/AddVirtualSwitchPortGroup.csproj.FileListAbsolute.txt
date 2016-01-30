@@ -1,0 +1,15 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\AddVirtualSwitchPortGroup.exe.config
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\AddVirtualSwitchPortGroup.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\AddVirtualSwitchPortGroup.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\AppUtil.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\Vim25Service.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\Vim25Service.XmlSerializers.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\VMware.Security.CredentialStore.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\STSService.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\AppUtil.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\VMware.Security.CredentialStore.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\obj\Debug\AddVirtualSwitchPortGroup.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\obj\Debug\AddVirtualSwitchPortGroup.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\AddVirtualSwitchPortGroup\obj\Debug\AddVirtualSwitchPortGroup.pdb

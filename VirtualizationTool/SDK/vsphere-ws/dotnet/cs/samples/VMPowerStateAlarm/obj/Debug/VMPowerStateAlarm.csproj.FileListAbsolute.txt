@@ -1,0 +1,15 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\VMPowerStateAlarm.exe.config
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\VMPowerStateAlarm.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\VMPowerStateAlarm.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\AppUtil.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\Vim25Service.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\Vim25Service.XmlSerializers.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\VMware.Security.CredentialStore.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\STSService.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\AppUtil.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\VMware.Security.CredentialStore.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\obj\Debug\VMPowerStateAlarm.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\obj\Debug\VMPowerStateAlarm.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\VMPowerStateAlarm\obj\Debug\VMPowerStateAlarm.pdb

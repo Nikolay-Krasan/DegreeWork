@@ -1,0 +1,16 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\RealTime.exe.config
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\RealTime.XML
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\RealTime.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\RealTime.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\AppUtil.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\Vim25Service.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\Vim25Service.XmlSerializers.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\VMware.Security.CredentialStore.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\STSService.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\AppUtil.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\VMware.Security.CredentialStore.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\obj\Debug\RealTime.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\obj\Debug\RealTime.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\RealTime\obj\Debug\RealTime.pdb

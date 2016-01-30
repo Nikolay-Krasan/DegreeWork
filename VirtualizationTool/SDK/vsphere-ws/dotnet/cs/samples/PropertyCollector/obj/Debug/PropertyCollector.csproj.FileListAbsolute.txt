@@ -1,0 +1,16 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\PropertyCollector.exe.config
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\PropertyCollector.XML
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\PropertyCollector.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\PropertyCollector.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\AppUtil.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\Vim25Service.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\Vim25Service.XmlSerializers.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\VMware.Security.CredentialStore.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\AcquireBearerTokenByUserCredentialSample.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\STSService.dll
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\AppUtil.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\VMware.Security.CredentialStore.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\bin\Debug\AcquireBearerTokenByUserCredentialSample.pdb
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\obj\Debug\PropertyCollector.csprojResolveAssemblyReference.cache
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\obj\Debug\PropertyCollector.exe
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\PropertyCollector\obj\Debug\PropertyCollector.pdb

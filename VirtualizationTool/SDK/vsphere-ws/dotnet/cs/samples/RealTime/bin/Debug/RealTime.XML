@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RealTime</name>
+    </assembly>
+    <members>
+        <member name="T:RealTime.RealTime">
+            <summary>
+            This sample displays the performance measurements of selected cpu counters of specified
+            Virtual machine (if available) from the current time at the console.
+            </summary>
+            <param name="vmname">Required: Name of virtual machine.</param>
+            <remarks>
+            --url [webserviceurl] --username [username] --password [password] 
+            --vmname [myVMName]
+            </remarks>
+        </member>
+        <member name="M:RealTime.RealTime.monitorPerformance(Vim25Api.ManagedObjectReference,Vim25Api.ManagedObjectReference,System.Collections.ArrayList,System.Collections.Hashtable)">
+            <summary>
+            Monitors the performance.
+            </summary>
+            <param name="pmRef"></param>
+            <param name="vmRef"></param>
+            <param name="mMetrics"></param>
+            <param name="counters"></param>
+        </member>
+        <member name="M:RealTime.RealTime.displayValues(Vim25Api.PerfEntityMetricBase[],System.Collections.Hashtable)">
+            <summary>
+            Displays the values of sample time range.
+            </summary>
+            <param name="values"></param>
+            <param name="counters"></param>
+        </member>
+        <member name="M:RealTime.RealTime.constructOptions">
+             <summary>
+             This method is used to add application specific user options 
+             </summary>
+            <returns> Array of OptionSpec containing the details of application 
+             specific user options 
+            </returns>
+        </member>
+        <member name="M:RealTime.RealTime.Main(System.String[])">
+            <summary>
+             The main entry point for the application.
+            </summary>
+        </member>
+    </members>
+</doc>

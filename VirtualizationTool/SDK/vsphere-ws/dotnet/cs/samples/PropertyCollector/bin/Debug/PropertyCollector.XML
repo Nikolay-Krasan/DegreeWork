@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PropertyCollector</name>
+    </assembly>
+    <members>
+        <member name="T:PropertyCollector.PropertyCollector">
+            <summary>
+             This sample excercise the PropertyCollector API of all the managed entity.
+            </summary>
+            <param name="dcName">Required: Name of the datacenter.</param>
+            <param name="vmDnsName">Required: Dns name of a virtual machine.</param>
+            <remarks>
+            --url [webserviceurl]
+            --username [username] --password [password] --dcName [datacenterName]
+            --vmDnsName [vmDnsName]
+            </remarks>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.constructOptions">
+             <summary>
+             This method is used to add application specific user options
+             </summary>
+            <returns> Array of OptionSpec containing the details of
+             application specific user options
+            </returns>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.Main(System.String[])">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.getProperties(Vim25Api.ManagedObjectReference,System.String[])">
+            <summary>
+            Retrieve properties from a single MoRef.
+            </summary>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.printObjectContent(Vim25Api.ObjectContent[],System.String)">
+            <summary>
+             Print out the ObjectContent[]
+             returned from RetrieveProperties()
+            </summary>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.getDatacenters">
+            <summary>
+            Specifications to find all the Datacenters and
+            retrieve their name, vmFolder and hostFolder values.
+            </summary>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.getVMs(Vim25Api.ManagedObjectReference)">
+            <summary>
+             Specifications to find all the VMs in a Datacenter and
+             retrieve their name and runtime.powerState values.
+            </summary>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.printVmInfo(Vim25Api.ObjectContent[])">
+            <summary>
+            Take the ObjectContent[] from RetrieveProperties()
+            and print it out.
+            </summary>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.getInventory">
+            <summary>
+             Specifications to find all items in inventory and
+             retrieve their name and parent values.
+            </summary>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.printNode(PropertyCollector.PropertyCollector.MeNode,System.Int32)">
+            <summary>
+             Recursive method to print an inventory tree node
+            </summary>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.printInventoryTree(Vim25Api.ObjectContent[])">
+            <summary>
+             Print the inventory tree retrieved from
+             the PropertyCollector
+            </summary>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.getNetworkInfo(Vim25Api.ManagedObjectReference)">
+            <summary>
+             Specifications to find all Networks in a Datacenter,
+             list all VMs on each Network,
+             list all Hosts on each Network
+            </summary>
+        </member>
+        <member name="M:PropertyCollector.PropertyCollector.printNetworkInfo(Vim25Api.ObjectContent[])">
+            <summary>
+            Take the ObjectContent[] from RetrieveProperties()
+            and print it out.
+            ObjectContent[] should have Network information
+            </summary>
+        </member>
+    </members>
+</doc>

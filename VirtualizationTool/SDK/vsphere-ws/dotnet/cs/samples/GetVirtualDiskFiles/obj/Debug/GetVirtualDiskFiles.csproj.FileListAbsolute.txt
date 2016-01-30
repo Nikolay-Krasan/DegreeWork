@@ -1,0 +1,1 @@
+F:\degreework\VirtualizationTool\SDK\vsphere-ws\dotnet\cs\samples\GetVirtualDiskFiles\obj\Debug\GetVirtualDiskFiles.csprojResolveAssemblyReference.cache
